@@ -1,4 +1,4 @@
-Dockerfile for ROOTv6.32 on Ubuntu 24.04: https://root.cern/
+Dockerfile for ROOTv6.32 on Ubuntu 24.04 (python 3.12): https://root.cern/
 
 Pull from [DockerHub](https://hub.docker.com/repository/docker/matbun/root/general):
 
